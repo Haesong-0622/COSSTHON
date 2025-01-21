@@ -28,5 +28,14 @@
 
 #### Flow chart
 
-![](
+![](https://github.com/Haesong-0622/COSSTHON/blob/main/flow%20chart.jpeg)
+
+#### Target
+
+1. A construction company
+2. An existing resident
+
+#### Business Model
+
+
 
