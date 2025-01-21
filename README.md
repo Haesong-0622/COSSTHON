@@ -37,5 +37,5 @@
 
 #### Business Model
 
-![](https://github.com/Haesong-0622/COSSTHON/blob/main/Business%20Model.jpeg}
+![](https://github.com/Haesong-0622/COSSTHON/blob/main/Business%20Model.jpeg)
 
